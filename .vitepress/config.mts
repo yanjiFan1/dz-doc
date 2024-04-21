@@ -11,7 +11,6 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/dz-doc/',
-  outDir: '../public',
   title: "DZ",
   description: "兆同学的网站1",
   themeConfig: {
